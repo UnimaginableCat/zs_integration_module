@@ -1,4 +1,4 @@
-<h>RetailCRM-ZoneSmart Integration module.<h>
+# RetailCRM-ZoneSmart Integration module.
 Список необходимых пакетов в файле requirements.txt<br>
 Так же необходимо установить redis и celery.<br>
 Для запуска сервера редис необходимо в терминале ввести команду "redis-server".<br>
